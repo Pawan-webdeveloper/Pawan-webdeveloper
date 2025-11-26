@@ -1,4 +1,4 @@
-# Hi there, I'm Pawan Sah 👋
+# Hi, I'm Pawan Sah 👋
 
 Full-Stack Developer | Automation Nerd 
 
@@ -36,10 +36,10 @@ Full-Stack Developer | Automation Nerd
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🔥 What I'm Currently Working On
+- Building a Bus Tracking App for solving my own problem 😅
 - Building production-grade full-stack applications with Next.js + NestJS
 - Creating powerful automation workflows using **n8n**
 - Containerizing everything with Docker and deploying on AWS
-- Exploring serverless architectures and advanced CI/CD pipelines
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pawan-sah-661a86327/))
