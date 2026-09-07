@@ -35,7 +35,7 @@ Full-Stack Developer | Automation Nerd
 
 ## 🔥 What I'm Currently Working On
 - Building Scanlyfix - a platform that identify and fixes everything that is wrong about your website. 
-- Building production-grade full-stack applications with Next.js + NestJS
+- Building production-grade full-stack applications
 - Creating powerful automation workflows using **n8n**
 - Containerizing everything with Docker and deploying on AWS
 
