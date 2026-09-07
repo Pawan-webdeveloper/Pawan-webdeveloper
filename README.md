@@ -34,7 +34,7 @@ Full-Stack Developer | Automation Nerd
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🔥 What I'm Currently Working On
-- Building a Bus Tracking App for solving my own problem 😅
+- Building Scanlyfix - a platform that identify and fixes everything that is wrong about your website. 
 - Building production-grade full-stack applications with Next.js + NestJS
 - Creating powerful automation workflows using **n8n**
 - Containerizing everything with Docker and deploying on AWS
